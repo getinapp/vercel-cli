@@ -1,4 +1,4 @@
-FROM node:16-alpine3.14
+FROM node:22-alpine3.20
 
 LABEL maintainer="Get In <diego.mosela@getinapp.com.br>"
 
